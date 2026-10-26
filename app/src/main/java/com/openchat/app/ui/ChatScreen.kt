@@ -101,11 +101,11 @@ import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import com.openchat.app.AppUiState
 import com.openchat.app.ChatViewModel
+import com.openchat.app.ModelOption
 import com.openchat.app.data.Attachment
 import com.openchat.app.data.ChatMessage
 import com.openchat.app.data.ChatRole
 import com.openchat.app.data.MessageStatus
-import com.openchat.app.data.ModelOption
 import com.openchat.app.ui.components.AppLogo
 import com.openchat.app.ui.components.Base64Image
 import com.openchat.app.ui.components.MarkdownText
